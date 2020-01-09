@@ -4,6 +4,11 @@
  * Copyright 2011-2019 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
+
+ .ultimateColour {
+   color: #509e2f;
+ }
+
 :root {
   --blue: #007bff;
   --indigo: #6610f2;
@@ -8341,14 +8346,14 @@ h1, h2, h3, h4, h5,
     .ftco-navbar-light.scrolled .navbar-brand {
       color: #000000; }
       .ftco-navbar-light.scrolled .navbar-brand span {
-        color: #daa592; }
+        color: #509e2f; }
 
 .navbar-brand {
   font-weight: 700;
   font-size: 20px;
   position: relative; }
   .navbar-brand span {
-    color: rgba(255, 255, 255, 0.4); }
+    color: #509e2f; }
 
 .hero-wrap {
   position: relative;
@@ -8528,7 +8533,7 @@ h1, h2, h3, h4, h5,
 
 .btn-custom {
   font-weight: 500;
-  color: #cd866c;
+  color: #509e2f;
   border-bottom: 4px solid #dfb2a1; }
 
 .ftco-consult {
